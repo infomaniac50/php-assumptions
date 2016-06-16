@@ -1,0 +1,13 @@
+{
+    "name": "infomaniac50/php-assumptions",
+    "require": {
+        "phpunit/phpunit": "^5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Derek Chafin",
+            "email": "infomaniac50@gmail.com"
+        }
+    ]
+}
